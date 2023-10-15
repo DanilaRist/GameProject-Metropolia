@@ -12,7 +12,7 @@ INSERT INTO questions (name, question, options, answer, attack)
 VALUES ('Goblin', 'How many elements are in the periodic table?:', 'A: 116,B: 117,C: 118,D: 119', 'C', 1);
 
 INSERT INTO questions (name, question, options, answer, attack)
-VALUES ('Ork', 'Which animal lays the largest egg?:', 'A: Whale,B: Crocodile,C: Elephant,D: Ostrich', 'D', 3);
+VALUES ('Ork', 'Which animal lays the largest egg?:', 'A: Whale,B: Crocodile,C: Elephant,D: Ostrich', 'D', 2);
 
 INSERT INTO questions (name, question, options, answer, attack)
 VALUES ('Evil Gnome', 'What is the value of 2 raised to the power of 4?:', 'A: 8,B: 4,C: 16,D: 32', 'B', 3);
